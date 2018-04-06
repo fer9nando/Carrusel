@@ -26,3 +26,6 @@ Proyecto para ejecutar un carrusel de imágenes que dependiendo la posición del
 
 ## Movimiento de izquierda a derecha.
 
+![2018-04-06 33](https://user-images.githubusercontent.com/24448781/38436912-841445d6-399b-11e8-97db-2d2048b19be2.png)
+![2018-04-06](https://user-images.githubusercontent.com/24448781/38436913-84375616-399b-11e8-882f-6aaa52e1f729.png)
+![2018-04-06 32](https://user-images.githubusercontent.com/24448781/38436915-8458ecf4-399b-11e8-8e50-6776efb80a48.png)
